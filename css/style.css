@@ -1,6 +1,6 @@
-header {
-	background-color:blue;
-	
+body header {
+	background-color:aqua;
+	margin:0 auto;
 }
 li {
 	text-decoration: none;
