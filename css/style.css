@@ -1,0 +1,14 @@
+header {
+	background-color:blue;
+	
+}
+li {
+	text-decoration: none;
+	list-style: none;
+	margin: 5px;
+}
+ul {
+	display: flex;
+    margin-left: 1000px;
+	margin-top: 5px;
+}
